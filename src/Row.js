@@ -63,5 +63,4 @@ function Row({title, fetchURL, isLargeRow}) {
         </div>
     )
 }
-
 export default Row
